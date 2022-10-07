@@ -1,0 +1,16 @@
+C:\Users\Helen\source\repos\WPFPracticeProject\obj\Debug\WPFPracticeProject.csproj.AssemblyReference.cache
+C:\Users\Helen\source\repos\WPFPracticeProject\obj\Debug\WPFPracticeProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helen\source\repos\WPFPracticeProject\obj\Debug\MainWindow.g.cs
+C:\Users\Helen\source\repos\WPFPracticeProject\obj\Debug\App.g.cs
+C:\Users\Helen\source\repos\WPFPracticeProject\obj\Debug\WPFPracticeProject_MarkupCompile.cache
+C:\Users\Helen\source\repos\WPFPracticeProject\obj\Debug\WPFPracticeProject_MarkupCompile.lref
+C:\Users\Helen\source\repos\WPFPracticeProject\bin\Debug\WPFPracticeProject.exe.config
+C:\Users\Helen\source\repos\WPFPracticeProject\bin\Debug\WPFPracticeProject.exe
+C:\Users\Helen\source\repos\WPFPracticeProject\bin\Debug\WPFPracticeProject.pdb
+C:\Users\Helen\source\repos\WPFPracticeProject\obj\Debug\MainWindow.baml
+C:\Users\Helen\source\repos\WPFPracticeProject\obj\Debug\WPFPracticeProject.g.resources
+C:\Users\Helen\source\repos\WPFPracticeProject\obj\Debug\WPFPracticeProject.Properties.Resources.resources
+C:\Users\Helen\source\repos\WPFPracticeProject\obj\Debug\WPFPracticeProject.csproj.GenerateResource.cache
+C:\Users\Helen\source\repos\WPFPracticeProject\obj\Debug\WPFPracticeProject.csproj.CoreCompileInputs.cache
+C:\Users\Helen\source\repos\WPFPracticeProject\obj\Debug\WPFPracticeProject.exe
+C:\Users\Helen\source\repos\WPFPracticeProject\obj\Debug\WPFPracticeProject.pdb
