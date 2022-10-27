@@ -1,0 +1,15 @@
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\bin\Debug\net6.0\CSharpProjOct.exe
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\bin\Debug\net6.0\CSharpProjOct.deps.json
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\bin\Debug\net6.0\CSharpProjOct.runtimeconfig.json
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\bin\Debug\net6.0\CSharpProjOct.dll
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\bin\Debug\net6.0\CSharpProjOct.pdb
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\obj\Debug\net6.0\CSharpProjOct.csproj.AssemblyReference.cache
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\obj\Debug\net6.0\CSharpProjOct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\obj\Debug\net6.0\CSharpProjOct.AssemblyInfoInputs.cache
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\obj\Debug\net6.0\CSharpProjOct.AssemblyInfo.cs
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\obj\Debug\net6.0\CSharpProjOct.csproj.CoreCompileInputs.cache
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\obj\Debug\net6.0\CSharpProjOct.dll
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\obj\Debug\net6.0\refint\CSharpProjOct.dll
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\obj\Debug\net6.0\CSharpProjOct.pdb
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\obj\Debug\net6.0\CSharpProjOct.genruntimeconfig.cache
+C:\Users\Helen\source\repos\VS Projects\CSharpProjOct\obj\Debug\net6.0\ref\CSharpProjOct.dll
