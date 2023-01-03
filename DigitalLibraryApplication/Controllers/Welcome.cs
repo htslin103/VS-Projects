@@ -6,13 +6,13 @@ namespace DigitalLibraryApplication.Controllers
     {
         public IActionResult Index()
         {
-            ViewData["Message"] = "Welcome to the digital library";
+            ViewData["Message"] = "Welcome to Digital Library";
             return View();
         }
 
         public string Description()
         {
-            return "This is the app for managing digital books";
+            return "This is the application for managing digital books";
         }
     }
 }
