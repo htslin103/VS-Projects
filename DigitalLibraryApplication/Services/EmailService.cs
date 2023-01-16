@@ -9,7 +9,7 @@
 
         public void SendEmail()
         {
-            //Logic.
+            //#TODO: Add logic
             MailSent = true;
         }
     }

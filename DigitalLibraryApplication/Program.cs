@@ -1,4 +1,6 @@
 
+using DigitalLibraryApplication.Middleware;
+using DigitalLibraryApplication.MiddlewareExtensions;
 using DigitalLibraryApplication.Services;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -18,6 +20,10 @@ if (!app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseMiddleware<SimpleMiddleware>();
+
+app.UseSimpleMiddleware();
 app.UseStaticFiles();
 
 app.UseRouting();
