@@ -1,13 +1,22 @@
 
 using DigitalLibraryApplication.Middleware;
 using DigitalLibraryApplication.MiddlewareExtensions;
+using DigitalLibraryApplication.Models;
 using DigitalLibraryApplication.Services;
+using Microsoft.EntityFrameworkCore;
 
+public IConfiguration Configuration { get; }
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddSingleton<EmailService>();
+var connection = Configuration.GetConnectionString("Default");
+if(connection == null)
+{
+    connection = "testingconnection";
+}
+builder.Services.AddDbContext<DigitalLibraryContext>(options => options.UseSqlServer(connection));
 
 var app = builder.Build();
 

@@ -8,7 +8,6 @@
         public string Title { get; set; }
         public string Subtitle { get; set; }
         public Author Narator { get; set; }
-
         public string Summary { get; set; }
     }
 }

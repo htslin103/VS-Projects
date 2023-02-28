@@ -1,0 +1,21 @@
+
+{
+    "region" : "us-west-2",
+    "configuration" : "Debug",
+    "framework"     : "net7.0",
+    "self-contained" : true,
+    "application"    : "AwsSampleProj",
+    "environment"    : "AwsSampleProj-dev",
+    "app-path"       : "/",
+    "iis-website"    : "Default Web Site",
+    "enable-xray"    : false,
+    "enhanced-health-type" : "basic",
+    "additional-options"   : "\"aws:autoscaling:launchconfiguration,SecurityGroups\"=\"sg-0918f72fff9a398bd\";\"aws:ec2:vpc,Subnets\"=\"subnet-0aa4f45ee0d3aafbc\"",
+    "solution-stack"       : "64bit Windows Server 2016 v2.11.1 running IIS 10.0",
+    "environment-type"     : "SingleInstance",
+    "cname"                : "awssampleproj-dev",
+    "instance-type"        : "t1.micro",
+    "key-pair"             : "",
+    "instance-profile"     : "aws-elasticbeanstalk-ec2-role",
+    "service-role"         : "aws-elasticbeanstalk-service-role"
+}
