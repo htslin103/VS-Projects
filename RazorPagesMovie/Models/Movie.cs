@@ -9,7 +9,7 @@ namespace RazorPagesMovie.Models
         public string? Title { get; set; } //? means nullable
 
         [DataType(DataType.Date)] //with DataType.Date, only date displayed, not time information 
-        public DateTime RelaseDate { get; set; }
+        public DateTime ReleaseDate { get; set; }
         public string? Genre { get; set; }
         public decimal Price { get; set; }
     }
